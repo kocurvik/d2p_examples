@@ -1,4 +1,4 @@
-# D2P image examples
+# D2P image examples 
 
 Web-ready image examples for the [Depth2Pose](https://github.com/kocurvik/depth2pose) project page.
 The `website` branch of `depth2pose` loads them from GitHub Pages of this repository
